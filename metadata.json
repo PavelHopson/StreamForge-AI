@@ -1,0 +1,5 @@
+{
+  "name": "StreamForge AI",
+  "description": "A professional Twitch design generator that analyzes reference images to create consistent, high-quality channel assets using Gemini NanoBanana models.",
+  "requestFramePermissions": []
+}
